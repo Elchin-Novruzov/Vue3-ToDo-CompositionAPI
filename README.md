@@ -1,6 +1,8 @@
 # Vue 3 Todo App
 By Elchin Novruzov ( https://github.com/Elchin-Novruzov/ )
 
+@vue.js
+
 A unique take on the Todo app that is built using a custom design with:
 
 - [Vite](https://github.com/vitejs/vite)
